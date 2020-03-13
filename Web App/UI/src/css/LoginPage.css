@@ -1,0 +1,71 @@
+@media all and (min-width: 480px) {
+  .LoginPage {
+    padding: 0 0;
+  }
+
+  .LoginPage form {
+    margin: 0 auto;
+    max-width: 360px;
+    padding: 30px 0;
+    padding-right: 30px;
+    padding-left: 30px;
+    background: rgba(0, 0, 0, 0.705);
+    color: #f1f1f1;
+  }
+}
+
+.SignUpPage form {
+  margin: 0 auto;
+  max-width: 500px;
+  padding: 30px 0;
+  padding-right: 30px;
+  padding-left: 30px;
+  background: rgba(0, 0, 0, 0.705);
+  color: #f1f1f1;
+}
+
+.app {
+  min-height: 100vh;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: auto;
+}
+
+.transbox {
+  background-color: transparent;
+}
+
+.table-bordered td {
+  background: rgba(0, 0, 0, 0.705);
+  color: #f1f1f1;
+}
+.table-bordered th {
+  background: rgba(0, 0, 0, 0.705);
+  color: #f1f1f1;
+}
+
+label {
+  color: #f1f1f1;
+}
+
+/*.form-control {
+  background-color: rgba(0, 0, 0, 0) !important;
+  color: #f1f1f1;
+}*/
+
+.toast {
+  background: #81ce7a;
+}
+.toast-header {
+  background-color: rgba(96, 211, 73, 0.5) !important;
+}
+
+.toast-body {
+  background-color: rgba(143, 240, 143, 0.5);
+}
+.form {
+  background: rgba(0, 0, 0, 0.705);
+  color: #f1f1f1;
+  padding: 10px 10px;
+}
